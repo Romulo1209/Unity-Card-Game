@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1d7e279a11fc7d48b07716112e32e52, type: 3}
+  m_Name: Card 7
+  m_EditorClassIdentifier: 
+  CardName: Goblin Thief
+  CardType: 0
+  CardDescription: A robber goblin where your goal is to stealthily finish your enemy,
+    he has a lot of damage but little defense.
+  CardDamage: 8
+  CardDefense: 2
+  CardCost: 3
+  CardBack: {fileID: 21300000, guid: 1b25561931e8b93429a5472b8e06d33d, type: 3}
+  CardBase: {fileID: 21300000, guid: 5b2f62648e6338e46bf3414974ebf0e2, type: 3}
+  CardPrefab: {fileID: 4308582021012872549, guid: 57b4a6a5ff6f72548a057c2590696fa6, type: 3}
+  CardIcon: {fileID: 21300000, guid: 6b43cfc43cb85d345afb542a0a6b7fdf, type: 3}
+  CardMaterial: {fileID: 2100000, guid: ae3c261f4a7d6c24c8f642613cb0a2c4, type: 2}
