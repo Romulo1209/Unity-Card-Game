@@ -41,8 +41,6 @@ public class BotController : HandManager
     }
     void AttackCard(GameObject cardBattlefield)
     {
-        //yield return new WaitForSeconds(1);
-
         CardBattlefield attackerCard = cardBattlefield.GetComponent<CardBattlefield>();
         CardBattlefield defenderCard = GameController.instance.PlayerBattlefieldController.GetWeakestCard().GetComponent<CardBattlefield>();
         GameController.instance.EnemyBattlefieldController.CardFight(attackerCard, defenderCard);
