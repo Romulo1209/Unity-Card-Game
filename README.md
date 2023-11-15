@@ -31,4 +31,4 @@ Unity Card Game is a repository for a card game prototype inspired by HeartStone
 https://drive.google.com/file/d/12AaDXf41qZ2HgK-I_VA8QnQEqCGqOHxm/view?usp=sharing
 
 <h3>Used Assets:</h3>
-https://discord.com/channels/@me/335238472111751170/1071323106272088156 Used Image IA
+https://replicate.com/stability-ai/stable-diffusion Used Image IA
